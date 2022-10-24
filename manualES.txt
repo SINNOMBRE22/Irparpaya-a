@@ -1,8 +1,8 @@
 ...............................
-#Nombre del script: Irparpayaña
+#Nombre del script: SinNombre
 ...............................
 #Significado: Acompañar a uno hasta ponerlo en camino 
-#Lengua: Aymara - Perú
+#Lengua: Aymara - México
 ..............................
 #Domingo 09/12/2018
 #Martes 15/01/2019
@@ -27,28 +27,6 @@ OPCIONES:
 [xx.xx] Menu secreto :)
 
 
-
-DATOS:
-
-CANAL TELEGRAM:
-
-https://t.me/RealHackRWAM
-
-GRUPO TELEGRAM:
-
-https://t.me/RealStrategyRS
-
-CANAL YOUTUBE:
-
-https://youtube.com/RealHackRWAM
-
-GRUPO FACEBOOK:
-
-https://m.facebook.com/groups/142565756559228
-
-CANAL FACEBOOK
-
-https://m.facebook.com/RealHackRWAM
 
 
 
