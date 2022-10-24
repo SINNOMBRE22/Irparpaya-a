@@ -1,11 +1,8 @@
 .........................
-#NAME SCRIPT: Irparpayaña
+#NAME SCRIPT: SinNombre
 .........................
-#Irparpayaña meaning = Accompany one to put it on the road.
-#Language: Aymara - Perú 
-.........................
-#Sunday 09/12/2018
-#Tuesday 01/15/2019
+#Sunday 09/12/2022
+#Tuesday 01/15/2022
 #By: real strategy / rwam
 ........................
 
@@ -25,30 +22,6 @@ OPTIONS:
 [99] Change the language to Spanish
 
 [xx.xx] Secret menu :)
-
-
-
-DATA:
-
-TELEGRAM CHANNEL:
-
-https://t.me/RealHackRWAM
-
-GRUPO TELEGRAM:
-
-https://t.me/RealStrategyRS
-
-YOUTUBE CHANNEL:
-
-https://youtube.com/RealHackRWAM
-
-FACEBOOK GROUP:
-
-https://m.facebook.com/groups/142565756559228
-
-CHANNEL FACEBOOK
-
-https://m.facebook.com/RealHackRWAM
 
 
 
