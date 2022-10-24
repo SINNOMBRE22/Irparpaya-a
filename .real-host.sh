@@ -1,7 +1,7 @@
 #!bin/bash
 #Created: 13/11/2018
 #Actualizacion 11/01/2019
-#by: real strategy
+#by: SinNombre
 #Actualizacion exitosa
 #MENSAJE: Nunca dejes de aprender, Si estas aqui es por curiosidad e intenta aprender shell o bash con la ayuda del buscador de google entre otros y asi tendras mas facilidad claro tomara tiempo pero lograras aprender aunque sea editando 
 clear 
@@ -92,14 +92,8 @@ read foo
 8)echo ""
 echo -e "\e[1;33mCREDITOS AL DESARROLLADOR\e[0m"
 echo ""
-echo -e "\e[1;31mCoder: @RealStrategy y el grupo vip RS"
+echo -e "\e[1;31mCoder: @RealStrategy y SinNombre "
 echo -e "\e[1;32m"
-echo "YOUTUBE : https://youtube.com/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealStrategyRS "
-echo "FACEBOOK: https://www.facebook.com/groups/405947939959628 "
-echo "FACEBOOK: https://m.facebook.com/RealHackRWAM "
-echo ""
 echo -e "\e[1;31mMENSAJE DE RS\e[0m"
 echo ""
 echo -e "\e[1;36mNunca dejes de aprender... :)\e[0m"
