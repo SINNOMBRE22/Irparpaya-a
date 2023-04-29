@@ -2,12 +2,12 @@
 #Nombre del script: SinNombre
 ...............................
 #Significado: Acompañar a uno hasta ponerlo en camino 
-#Lengua: Aymara - México
-..............................
+#Lengua:  - México
+...............................
 #Domingo 09/12/2018
 #Martes 15/01/2019
-#by: real strategy / rwam
-..............................
+#por: Cristián Aguilar
+...............................
 
 OPCIONES:
 
