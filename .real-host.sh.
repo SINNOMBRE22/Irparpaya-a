@@ -1,5 +1,5 @@
 #!bin/bash
-#Created: 13/11/2018
+#Creado: 13/11/2018
 #Actualizacion 11/01/2019
 #by: real strategy
 #Actualizacion exitosa
@@ -25,7 +25,7 @@ echo -e "\e[1;31m[5]\e[1;32m VER PUERTOS WEB & HOST"
 echo -e "\e[1;31m[6]\e[1;32m VER PROXY HOST & WEB"
 echo -e "\e[1;31m[7]\e[1;32m MANUAL DE USO HOST E."
 echo -e "\e[1;31m[8]\e[1;32m MENSAJE DEL CREADOR "
-echo -e "\e[1;31m[0]\e[1;32m SALIR DEL MENU H.E"
+echo -e "\e[1;31m[0]\e[1;32m SALIR DEL MENÚ HE"
 echo ""
 echo -e "\e[1;36m"
 echo -n "Escoger opcion: "
@@ -91,13 +91,8 @@ read foo
 ;;
 8)echo ""
 echo -e "\e[1;33mCREDITOS AL DESARROLLADOR\e[0m"
-ecológico ""echo -e "\e[1;32m"
-echo "YOUTUBE : https://youtube.com/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealStrategyRS "
-echo "FACEBOOK: https://m.facebook.com/groups/142565756559228 "
-eco "FACEBOOK: https://m.facebook.com/RealHackRWAM"
-echo ""
+
+o ""
 echo -e "\e[1;31mMENSAJE DE RS\e[0m"
 echo ""
 echo -e "\e[1;36mNunca dejes de aprender... :)\e[0m"
