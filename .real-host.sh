@@ -92,7 +92,7 @@ read foo
 8)echo ""
 echo -e "\e[1;33mCREDITOS AL DESARROLLADOR\e[0m"
 echo ""
-echo -e "\e[1;31mCoder: @RealStrategy y SinNombre "
+echo -e "\e[1;31mCoder: SinNombre "
 echo -e "\e[1;32m"
 echo -e "\e[1;31mMENSAJE DE RS\e[0m"
 echo ""
