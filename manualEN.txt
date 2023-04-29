@@ -2,8 +2,8 @@
 #NAME SCRIPT: SinNombre
 .........................
 #Sunday 09/12/2022
-#Tuesday 01/15/2022
-#By: real strategy / rwam
+#martes 15/01/2022
+#Por: Cristián Aguilar
 ........................
 
 OPTIONS:
