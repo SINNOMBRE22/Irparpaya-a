@@ -1,7 +1,7 @@
 #!bin/bash
 #Created: 13/11/2018
 #Upgrade 12/01/2019
-#by: SinNombre
+#by: real strategy
 #Successful update
 #MESSAGE: Never stop learning, if you are here is out of curiosity and try to learn shell or bash with the help of google search among others and so you will have more ease of course take time but you will learn even if editing
 clear 
@@ -10,7 +10,13 @@ do
 #menu banner
 clear
 echo -e "\e[1;33m(98/8)\e[1;32m" 
-echo -e "\e[1;33mV= 2.0                                       
+echo "    __  __           __     ______     __                  __             "
+echo "   / / / /___  _____/ /_   / ____/  __/ /__________  _____/ /_____  _____ "
+echo "  / /_/ / __ \/ ___/ __/  / __/ | |/_/ __/ ___/ __ \/ ___/ __/ __ \/ ___/ "
+echo " / __  / /_/ (__  ) /_   / /____>  </ /_/ /  / /_/ / /__/ /_/ /_/ / /     "
+echo "/_/ /_/\____/____/\__/  /_____/_/|_|\__/_/   \__,_/\___/\__/\____/_/      "
+echo -e "\e[1;33mV= 2.0                    (99) Spanish                    (98) English     " 
+echo "" 
 echo -e "\e[1;31m[1]\e[1;32m HOST & SSL EXTRACTOR"
 echo -e "\e[1;31m[2]\e[1;32m SHOW WEB STATUS"
 echo -e "\e[1;31m[3]\e[1;32m SAVE HOSTS EXTRACTED"
@@ -103,7 +109,7 @@ read foo;
 98)clear
 echo "translating to english language...";
 sleep 3
-bash SinNombre.sh
+bash real-host-v2.sh
 ;;
 99)clear
 echo "Translating to spanish language...";
