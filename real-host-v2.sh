@@ -11,7 +11,6 @@ do
 clear
 echo -e "\e[1;33m(98/8)\e[1;32m" 
 echo -e "\e[1;33mV= 2.0                                       
-echo "" 
 echo -e "\e[1;31m[1]\e[1;32m HOST & SSL EXTRACTOR"
 echo -e "\e[1;31m[2]\e[1;32m SHOW WEB STATUS"
 echo -e "\e[1;31m[3]\e[1;32m SAVE HOSTS EXTRACTED"
